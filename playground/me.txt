@@ -1,5 +1,0 @@
-{{#user}
-Name: Swapnil Mannurkar
-Skills: HTML, CSS, JS, React.js, MySQL
-Email: mannurkarswapnil@gmail.com
-{{/user}}
